@@ -1,0 +1,25 @@
+
+p {
+	font-family: Geneva;
+	font-weight: 14px;
+}
+
+#color {
+	height: 300px;
+	width: 300px;
+	border-radius: 5px;
+	background-color: #333;
+	margin: auto;
+	cursor: crosshair;
+}
+
+#change, #view {
+	margin-top: 5px;
+	border-radius: 3px;
+}
+.tooltip {
+	background-color: #eaeaea;
+	border-radius: 4px;
+	font-style: Helvetica;
+	
+}
